@@ -1,12 +1,11 @@
-
 - 👋 Hi, I’m @Makki97
--💻I'm a Software Engineer at HiveWorx in Islambad, PK 🌆
+- 💻 I'm a Software Engineer at HiveWorx in Islambad, PK 🌆
 - 🔭 I’m currently learning  the bloc library
 - ☕ I’m learning how to make latte art
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about Flutter and Dart.
--😄 Pronouns: he/him/his
--⚡ Fun fact: I love to listen your side story
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I love to listen your side story
 
 
 <!---
