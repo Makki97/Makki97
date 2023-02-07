@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Makki97
-- 💻 I'm a Software Engineer 🌆
+- 💻 I'm a seasoned Project Manager 🌆
 - 🔭 I’m currently learning  the bloc library
 - ☕ I’m learning how to make latte art
 - 🧑‍💻 I’m looking to collaborate on open source projects
